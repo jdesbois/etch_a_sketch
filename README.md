@@ -1,0 +1,1 @@
+This is The Odin Project's - WebDev101 - Javascript and jQuery Etch A Sketch project
